@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
+import { Helmet } from 'react-helmet';
 
-import { Helmet } from 'react-helmet'
+import './not-found.css';
 
-import './not-found.css'
-
-const NotFound1 = (props) => {
+const NotFound = (props) => {
   return (
     <div className="not-found1-container1">
       <Helmet>
@@ -20,7 +19,7 @@ const NotFound1 = (props) => {
         </h2>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default NotFound1
+export default NotFound;
