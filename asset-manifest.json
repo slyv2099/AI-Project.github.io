@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-Project/static/css/main.4b6ef45c.css",
+    "main.js": "/AI-Project/static/js/main.a6baeff3.js",
+    "index.html": "/AI-Project/index.html",
+    "main.4b6ef45c.css.map": "/AI-Project/static/css/main.4b6ef45c.css.map",
+    "main.a6baeff3.js.map": "/AI-Project/static/js/main.a6baeff3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b6ef45c.css",
+    "static/js/main.a6baeff3.js"
+  ]
+}
